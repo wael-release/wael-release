@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wael abdullah
-- 👀 I’m interested in programming,devops,big data
-- 🌱 I’m currently learning linux,python,big data
+- 👀 I’m interested in programming,solution architecture,devops,AWS,Azure
+- 🌱 I’m currently learning AWS,python,linux,K8
 - 💞️ I’m looking to collaborate on <<currenlty nothing>>
 - 📫 How to reach me 
 
